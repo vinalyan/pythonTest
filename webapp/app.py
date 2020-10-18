@@ -3,6 +3,8 @@ from sklearn import datasets, svm
 
 app = Flask(__name__)
 
+#новый комментарий тут
+
 # Load Dataset from scikit-learn.
 digits = datasets.load_digits()
 
